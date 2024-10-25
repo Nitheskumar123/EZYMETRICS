@@ -5,7 +5,7 @@ leads data: ![image](https://github.com/user-attachments/assets/61c5e9ec-0310-4a
 report pdf image:![image](https://github.com/user-attachments/assets/890f6587-8814-4219-912b-209cdfe1b47a)
 email -alert(if the phone number less than specified digit):![image](https://github.com/user-attachments/assets/92e882bf-6c41-4014-a95b-7e0149b1eace)
 
-This project is a Django-based API for managing campaigns and leads in a CRM system. It supports creating, retrieving, updating, and deleting (CRUD) operations for campaigns and leads, as well as generating reports.
+This project is a Django-based API for managing campaigns and leads in a CRM system. It supports creating,  retrieving, updating, and deleting (CRUD) operations for campaigns and leads, as well as generating reports.
 Features:
 Campaigns: Manage campaigns, including budget, dates, and performance metrics.
 Leads: Manage leads, including contact details and campaign association.
