@@ -1,0 +1,9 @@
+django
+djangorestframework
+mysqlclient  
+django-filter  
+celery
+django-celery-beat  
+reportlab  
+django-weasyprint  
+django-rest-framework-csv 
